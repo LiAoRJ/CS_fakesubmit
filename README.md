@@ -1,0 +1,2 @@
+# CS_fakesubmit
+一个可以伪装上线Cobaltstrike的脚本
