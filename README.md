@@ -17,7 +17,6 @@ python parse_beacon_config.py stage文件名 —json
 
 公众号:F12sec
 
-官网：http://www.0dayhack.net/
 
 ![qrcode_for_gh_195dee428fe9_258](https://img-blog.csdnimg.cn/img_convert/3206b48bd631855d8295aefd35692aee.png)
 
