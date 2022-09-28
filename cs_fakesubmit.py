@@ -86,7 +86,7 @@ if __name__ == "__main__":
         Textline1 = linecache.getline(filename1,random.randint(1,Count1)).replace('\n','')
         Textline2 = linecache.getline(filename2,random.randint(1,Count2)).replace('\n','')
         Textline3 = linecache.getline(filename3,random.randint(1,Count3)).replace('\n','')
-        t = multiprocessing.Process(target=fake_submit(url,Textline1,Textline2,Textline3,pubkey))  # 多进程程
+        t = multiprocessing.Process(target=fake_submit(url,Textline1,Textline2,Textline3,pubkey)) 
         t.start()
         # fake_submit(url,Textline1,Textline2,Textline3)
     print("OK!")
